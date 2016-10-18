@@ -1,9 +1,11 @@
+
 https://sites.google.com/a/24-7intouch.com/email/template-base
 I totally understand your concern and I can surely check up on that. 
 In the meantime I need to verify your account. For security purposes can you please provide your full billing address?
 Please allow me a few minutes and I’ll be right back.
 Please bear with me while I check.
 The funds will be returned to the original payment method within 5 business days.
+
 CTY
 
 It's been a pleasure assisting you. In a few moments you may receive a brief email survey regarding your experience with me and other regarding walmart.com. I would appreciate your feedback.  Thank you for contacting Walmart.com and have a great day!
@@ -46,23 +48,30 @@ CHANGES
 I’d like to explain you that due to system limitations we cannot make changes on your order after you click “Place Online Order”. In this case It’s recommended for you to cancel the order and reorder with the correct information. I’ll appreciate your understanding. 
 STUCK IN PROCESSING
 
-I have carefully gone through our records and I'm afraid to say that I have determined that your order did not process properly due to a problem with our system.  Because I completely understand how much important is for you to receive your ITEM.
-I'll also like to explain that we will do our best effort to reprocess this order but if we are unable the order will be cancelled. Please allow up to 48 hours to receive a confirmation either that the order was shipped or that it was cancelled.
+I have carefully gone through our records and I'm afraid to say that I have determined that your order did not process properly due to a problem with our system.  Because I completely understand how much important is for you to receive your ITEM. I've send a request to push the order in the process stage.
+I’d also like to say  that we will do our best effort to reprocess this order but if we are unable the order will be cancelled. Please allow up to 48 hours to receive a confirmation either that the order was shipped or that it was cancelled.
 I completely understand and we are willing to compensate you either way with a 10% adjustment. As soon as you receive the notification with the resolution please contact us back and provide this REFER.
+*** order stuck in processing *** placed intent to cancel and adv. to wait 48 hours
+ALTERNATE
+
+Thank you so much for waiting. I have reviewed all the details in your order, and it appears that there was an error and it did not process correctly in our system, and that's the reason why it could not be shipped when we expected. I deeply apologize for this inconvenience.
+This is a very unusual situation, and in an effort to rectify it I have two options for you.
+We can either send a cancellation request for this order, or allow a couple of days to see if it ships.
+This is not a problem with your account or payment, so if you decide to cancel and reorder this product right now, as a compensation for this inconvenience I can offer you a discount in the new order.
+Please tell me, which option would work best for you?
+
 LAD
 
 I've reviewed the tracking information and both packages were delivered one on Oct 12 and the other the next day. But we are deeply sorry to learn that you never received them.
 REPLACE
 I've issued a replacement for your items. In a few moments you should receive a confirmation email.
 As soon as your order is shipped you will receive a shipment confirmation email that will include tracking information and expected delivery date.
-STUCK IN PROCESSING
+SITE ISSUES
 
-I have carefully gone through our records and I'm afraid to say that I have determined that your order did not process properly.  I do apologize for this but because I completely understand how important is for you to receive your order. I've send a request to push the order in the process stage.
-I’d also like to explain that we will do our best effort to reprocess your order as fast as we can but if we cannot process it the order will be cancelled. Please allow up to 48 hours to receive a confirmation email either that the order was successfully shipped or that it was cancelled. 
-ALTERNATE
-Thank you so much for waiting. I have reviewed all the details in your order, and it appears that there was an error and it did not process correctly in our system, and that's the reason why it could not be shipped when we expected. I deeply apologize for this inconvenience.
-This is a very unusual situation, and in an effort to rectify it I have two options for you.
-We can either send a cancellation request for this order, or allow a couple of days to see if it ships.
-This is not a problem with your account or payment, so if you decide to cancel and reorder this product right now, as a compensation for this inconvenience I can offer you a discount in the new order.
-Please tell me, which option would work best for you?
+I’m really sorry for the inconvenience this situation may represent to you. I'm glad to have the opportunity to review your concern and provide the best solution.
+For the quickest resolution, it’s recommended for you to clear the cookies cache and history from your Internet browser and try again. If that doesn't work I kindly suggest you to try with a different computer/device or with a different browser like Chrome or Firefox.
+You may try to place this order immediately with these other options:
+-	You can try to place an order on mobile.walmart.com from your Smartphone.
+-	You can try placing your order on the mobile Walmart app. 
+If you are still unable to place your online order, please do not hesitate to call us at 1-800-966-6546.
 
